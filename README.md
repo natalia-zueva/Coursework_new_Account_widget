@@ -1,0 +1,1 @@
+# Widget for bank account
